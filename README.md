@@ -1,5 +1,5 @@
 # Ignite -@codemun: Match
 
-ignite is simply a animation project that made @codemun, its basically a animated thing that reface a anmtion faler fire 🔥 a match box , you can see on that project preview IMG it shows that is works and if you go on the redmim.md file it will help you know to make thta shit words on your computer 💻 and if you went to try on you own phone or on any device its can works anywhere, what you all to do is just on my github repro of this project that and install on you complete, by downloading that zip file on on yiu device ,and then exterex at shit and open the index.html. file and. now you can use it on you own device. von .vo 
+🔥 Ignite is a simple animation project created by @codemun that features an animated matchbox and realistic fire effect. It is lightweight, easy to use, and works on both computers and mobile devices through a web browser. Simply download or clone the repository, extract the files if needed, and open the "index.html" file to run the animation on your device. Check the README for setup instructions, and if you enjoy the project, don't forget to give it a ⭐ to support and increase its visibility.
 Original URL: https://www.instagram.com/codemunofficial/
 
